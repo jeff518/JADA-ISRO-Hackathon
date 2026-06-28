@@ -222,8 +222,4 @@ __marimo__/
 csv_files/*.csv
 ISRO_data_raw/*.cdf
 
-# Models
-*.pkl
-*.joblib
-*.h5
-*.keras
+
